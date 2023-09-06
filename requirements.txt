@@ -1,4 +1,4 @@
 tensorflow
 streamlit
--U scikit-learn
+pip install -U scikit-learn
 
