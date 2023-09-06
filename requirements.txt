@@ -1,4 +1,4 @@
 tensorflow
 streamlit
-sklearn
+scikit-learn
 
